@@ -1,0 +1,11 @@
+{
+  "name": "LIFE OS",
+  "short_name": "LIFE OS",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#07110c",
+  "theme_color": "#07110c",
+  "description": "Your personal life-management command center",
+  "icons": []
+}
